@@ -1,5 +1,5 @@
 <?php
-include 'produtos.php';
+include 'produto.php';
 include 'carrinho.php';
 include 'funcoes.php';
 
@@ -14,3 +14,4 @@ $total = listarCarrinho($carrinho, $produtos);
 aplicarDesconto($total, 'DESCONTO10');
 
 ?>
+
