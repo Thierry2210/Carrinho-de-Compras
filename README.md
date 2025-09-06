@@ -1,5 +1,9 @@
 🛒 Projeto Carrinho de Compras em PHP
 
+Desenvolvedores  
+- Artur Camilo Taroco - RA: 2009597  
+- Matheus Thierry Santos da Silva - RA: 1999010  
+
 Este é um projeto básico de simulação de um carrinho de compras desenvolvido em PHP puro, sem banco de dados, sem frameworks e sem formulários. Ele é ideal para iniciantes que estão aprendendo manipulação de arrays, funções e lógica básica em PHP.
 
 📁 Estrutura de Arquivos
